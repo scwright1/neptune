@@ -2,6 +2,9 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import get from 'lodash/get'
 
+//fira sans & merriweather
+//open sans & lora
+
 // Import typefaces
 import 'typeface-montserrat'
 import 'typeface-merriweather'
